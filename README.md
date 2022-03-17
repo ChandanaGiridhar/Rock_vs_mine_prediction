@@ -29,7 +29,7 @@ The model used here is  **Logistic Regression**. Logistic regression is a statis
 As it a binary classification model it is perfect to predict if an object is mine or rock based on the sonar data.
 
 ## Description
-![Image]()
+![screenshot](https://github.com/ChandanaGiridhar/Rock_vs_mine_prediction/blob/main/img/Screenshot%20(420).png)
 
 
 
