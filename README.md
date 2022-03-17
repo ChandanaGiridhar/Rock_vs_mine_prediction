@@ -34,7 +34,11 @@ As it a binary classification model it is perfect to predict if an object is min
 Sonar data in a csv file is taken for training and testing purpose. Data preprocessing is done on the available sonar data which is suitable for training the model. After Data preprocessing, a Logistic regression model is built. The dataset is split into testing and training. The new data/ testing data is given to the trained logistic regression model for prediction.  
 
 
+## Lessons Learned
 
+- This is my first machine learning project where i learnt about logistic regression model which is used for binary classification.
+- I also learned about how different python libraries like scikit learn, numpy and pandas can be used to build and train the model.
+- Model evaluation using input data was also done in this project.
 
 
 ## Acknowledgements
